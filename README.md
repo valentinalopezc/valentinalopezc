@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋 
+### This is Valentina Lopez!
 
-<!--
-**valentinalopezc/valentinalopezc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/valentinalopezcha/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mail:lopezvale300@gmail.com)
 
-Here are some ideas to get you started:
+Welcome to my Github page! I am Valentina and I am a computer learner of Barcelona!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🌱 Things I am currently working on: 
+- Finishing Data Analytics bootcamp
+ 
+
+
